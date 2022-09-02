@@ -1,2 +1,2 @@
-# Web_dev_project
-3rd sem web dev
+# data structures project.
+3rd sem data structures
